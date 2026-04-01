@@ -278,3 +278,6 @@ Contributions are welcome.
 4. Open a Pull Request describing what you changed and why
 
 ---
+
+<img width="734" height="407" alt="Screenshot 2026-04-02 002557" src="https://github.com/user-attachments/assets/962d663a-bfae-40a2-81c4-2f8ca756b569" />
+
